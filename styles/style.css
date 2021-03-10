@@ -1,0 +1,14 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-color: #EED324;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    display: flex;
+}
